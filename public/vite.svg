@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>Vite Logo</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M29.8846 6.146l-13.142 23.5a.7146.7146 0 01-1.2442 0L2.1156 6.146a.7145.7145 0 01.7468-1.057l13.156 2.352a.7145.7145 0 00.253 0l13.156-2.352a.7145.7145 0 01.7468 1.057z" fill="#41D1FF"/>
+        <path d="M21.5266 1.4l-9.05 16.143a.3573.3573 0 00.621 0l9.05-16.143a.3573.3573 0 00-.621 0z" fill="#41D1FF"/>
+    </g>
+</svg>
